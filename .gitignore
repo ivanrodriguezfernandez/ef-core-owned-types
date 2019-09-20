@@ -3,3 +3,5 @@
 ################################################################################
 
 /ef-core-owned-types/ef-core-owned-types/bin/Debug/netcoreapp2.2
+/ef-core-owned-types/ef-core-owned-types/obj
+/ef-core-owned-types/.vs/ef-core-owned-types/v16
