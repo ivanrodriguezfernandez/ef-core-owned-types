@@ -10,7 +10,7 @@ using ef_core_owned_types.Persistence;
 namespace ef_core_owned_types.Migrations
 {
     [DbContext(typeof(MyAppContext))]
-    [Migration("20190920141651_Initial")]
+    [Migration("20190920142517_Initial")]
     partial class Initial
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
